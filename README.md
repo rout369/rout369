@@ -9,21 +9,21 @@
 - 😄 Pronouns: he / him ...
 - ⚡ Quote of my life: Never Give Up and some time you have to run before you learn walk..
 
-<h1 align="center">Hi 👋, I'm Rachit Srivastava</h1>
-<h3 align="center">A full stack developer finding peace in web3.</h3>
+<h1 align="center">Hi 👋, I'm Biswajit Rout</h1>
+<h3 align="center">A Growing Pentester and I will become the best ethical hacker in the world in the future</h3>
 
 
-- 🔭 I’m currently working on **Portfolio Generator**
+- 🔭 I’m currently working on **SniffSEC(Pentesting Tool)**
 
-- 🌱 I’m currently learning **Smart Contract Development**
+- 🌱 I’m currently learning **Back Door Attack**
 
-- 👯 I’m looking to collaborate on **Web3 Projects**
+- 👯 I’m looking to collaborate on **Pentesting Tools**
 
 - 🤝 Build in public **on Twitter/X and Linkedin**
 
-- 👨‍💻 This is my portfolio [https://portfolio-b1dv.vercel.app/](https://portfolio-b1dv.vercel.app/)
+- 👨‍💻 This is my portfolio 
 
-- 📝 Find my top projects [https://github.com/RachitSrivastava12](https://github.com/RachitSrivastava12)
+- 📝 Find my top projects [https://github.com/rout369](https://github.com/rout369)
 
 - 💬 Ask me about **anything frontend but mostly backend**
 
