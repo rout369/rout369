@@ -25,15 +25,14 @@
 
 - 📝 Find my top projects [https://github.com/rout369](https://github.com/rout369)
 
-- 💬 Ask me about **anything frontend but mostly backend**
+- 💬 Ask me about ****
 
-- 📫 How to reach me **rachitsrivastava76@gmail.com**
+- 📫 How to reach me **routbiswajit70681@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Xl1mU7j7m4ggjw_nOE6UeMEtwaGkEaz3/view](https://drive.google.com/file/d/1Xl1mU7j7m4ggjw_nOE6UeMEtwaGkEaz3/view)
-
+- 📄 Know about my experiences 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rachit_twts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachit_twts" height="30" width="40" /></a>
+<a href="https://x.com/Vishal848957001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vishal848957001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rachit-dhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rachit-dhh/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rachit.dhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rachit.dhh/" height="30" width="40" /></a>
 </p>
