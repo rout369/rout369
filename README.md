@@ -37,17 +37,38 @@
 
 <h3 align="left">Languages and Tools (Cybersecurity, Pentesting, Python, Bash):</h3>
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Kali_Linux_Logo_2017.svg" alt="kali" width="40" height="40"/> </a>
-    <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://www.metasploit.com/sites/default/files/styles/full_width_hero/public/2023-03/metasploit-logo.jpg" alt="metasploit" width="40" height="40"/> </a>
-    <a href="https://www.nmap.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Nmap_logo.svg" alt="nmap" width="40" height="40"/> </a>
-    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Wireshark_Logo_2023.png" alt="wireshark" width="40" height="40"/> </a>
-    <a href="https://www.hashcat.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Hashcat_logo.svg" alt="hashcat" width="40" height="40"/> </a>
-    <a href="https://www.owasp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OWASP_logo.svg/1024px-OWASP_logo.svg.png" alt="owasp" width="40" height="40"/> </a>
-    <a href="https://github.com/golang/go" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+    </a>
+    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Kali_Linux_Logo_2017.svg" alt="kali" width="40" height="40"/> 
+    </a>
+    <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.metasploit.com/assets/img/metasploit-logo.svg" alt="metasploit" width="40" height="40"/> 
+    </a>
+    <a href="https://www.nmap.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Nmap_logo.svg" alt="nmap" width="40" height="40"/> 
+    </a>
+    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Wireshark_Logo_2023.png" alt="wireshark" width="40" height="40"/> 
+    </a>
+    <a href="https://www.hashcat.net/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Hashcat_logo.svg" alt="hashcat" width="40" height="40"/> 
+    </a>
+    <a href="https://www.owasp.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OWASP_logo.svg/1024px-OWASP_logo.svg.png" alt="owasp" width="40" height="40"/> 
+    </a>
+    <a href="https://github.com/golang/go" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    </a>
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+    </a>
 </p>
+
 
 <!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rout369&show_icons=true&locale=en&layout=compact" alt="rout369" /></p>
