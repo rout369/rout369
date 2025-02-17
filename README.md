@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SniffSEC(Pentesting Tool)**
 
-- 🌱 I’m currently learning **Back Door Attack**
+- 🌱 I’m currently learning **SOC(Security Operation Center)**
 
 - 👯 I’m looking to collaborate on **Pentesting Tools**
 
