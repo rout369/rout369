@@ -43,8 +43,23 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rout369&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="rout369" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rout369&show_icons=true&locale=en&bg_color=000000" alt="rout369" /></p>
-
+<!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rout369&bg_color=000000" alt="rout369" /></p>
+--->
+<!---
+<a href="https://tryhackme.com/p/routbiswajit7068">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/routbiswajit7068.png" alt="TryHackMe Badge">
+</a>
+--->
+
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rout369&bg_color=000000" alt="rout369">
+  <a href="https://tryhackme.com/p/routbiswajit7068">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/routbiswajit7068.png" alt="TryHackMe Badge" style="margin-left: 30px;">
+  </a>
+</div>
+
 
 
 
