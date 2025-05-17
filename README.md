@@ -66,17 +66,24 @@
     <img src= "icons8-rust-programming-language-64.png" alt="rust" width="40" height="40"/>
   </a>
    <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
-    <img src= "owaspzap.jpg" alt="rust" width="40" height="40"/>
+    <img src= "owaspzap.jpg" alt="wasp" width="40" height="40"/>
   </a>
     <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src= "icons8-wireshark.gif" alt="rust" width="40" height="40"/>
+    <img src= "icons8-wireshark.gif" alt="shark" width="40" height="40"/>
   </a>
     <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src= "icons8-nmap-48.png" alt="rust" width="40" height="40"/>
+    <img src= "icons8-nmap-48.png" alt="nmap" width="40" height="40"/>
   </a>
   <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
-    <img src= "hashcat-icon.png" alt="rust" width="40" height="40"/>
+    <img src= "hashcat-icon.png" alt="cat" width="40" height="40"/>
   </a>
+   <a href="https://portswigger.net/" target="_blank" rel="noreferrer">
+    <img src= "burp_suite_macos_bigsur_icon_190319.png" alt="burp" width="40" height="40"/>
+  </a>
+  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer">
+    <img src= "shodan.webp" alt="shodan" width="60" height="20"/>
+  </a>
+  
   
 </p>
 
