@@ -31,15 +31,11 @@
 <a href="https://www.linkedin.com/in/biswajit-rout-9b2386258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biswajit-rout-9b2386258/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vishal.4921194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vishal.4921194/" height="30" width="40" /></a>
 <a href="https://medium.com/@routbiswajit70681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@routbiswajit70681" height="30" width="40" /></a>
+   <a href="https://tryhackme.com/p/routbiswajit7068" target="_blank" rel="noreferrer">
+    <img align="center" src= "Tryhackme--Streamline-Simple-Icons.svg" alt="rust" width="40" height="40"/>
+  </a>
 </p>
 
-<!---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="icons8-bash-48.png" alt="bash" width="40" height="40"/>
-</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
---->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -68,6 +64,18 @@
   </a>
    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img src= "icons8-rust-programming-language-64.png" alt="rust" width="40" height="40"/>
+  </a>
+   <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
+    <img src= "owaspzap.jpg" alt="rust" width="40" height="40"/>
+  </a>
+    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src= "icons8-wireshark.gif" alt="rust" width="40" height="40"/>
+  </a>
+    <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src= "icons8-nmap-48.png" alt="rust" width="40" height="40"/>
+  </a>
+  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
+    <img src= "hashcat-icon.png" alt="rust" width="40" height="40"/>
   </a>
   
 </p>
