@@ -1,26 +1,18 @@
 <h1 align="center">Hi 👋, I'm Biswajit Rout</h1>
-<h3 align="center">A Growing Pentester and Pentesting Tool Developer</h3>
+<h3 align="center">A Growing Backend Developer | Cybersecurity Enthusiast</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rout369&theme=onedark)](https://github.com/rout369/github-profile-trophy)
 
 
-- 🔭 I’m currently working on **SniffSEC(Pentesting Tool)**
+- 🔭 I’m currently working on **Backend & Cybersecurity Tool Devlopment**
 
-- 🌱 I’m currently learning **BUG Hunting**
+- 🌱 I’m currently learning **BUG Hunting | Backend Development**
 
-- 👯 I’m looking to collaborate on **Pentesting Tools**
+- 👯 I’m looking to collaborate on **Tool Development | Backend Project**
 
 - 🤝 Build in public **on Twitter/X and Linkedin**
 
-- 👨‍💻 This is my portfolio 
-
 - 📝 Find my top projects [https://github.com/rout369](https://github.com/rout369)
-
-- 💬 Ask me about ****
-
-- 📫 How to reach me **routbiswajit70681@gmail.com**
-
-- 📄 Know about my experiences
 
 - ⚡ Quote of my life: Never Give Up and some time you have to run before you learn walk..
 
