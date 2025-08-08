@@ -1,124 +1,10 @@
-<!---
-<h1 align="center">Hi 👋, I'm Biswajit Rout</h1>
-<h3 align="center">A Growing Backend Developer | Cybersecurity Enthusiast</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rout369&theme=onedark)](https://github.com/rout369/github-profile-trophy)
-
-
-- 🔭 I’m currently working on **Backend & Cybersecurity Tool Devlopment**
-
-- 🌱 I’m currently learning **BUG Hunting | Backend Development**
-
-- 👯 I’m looking to collaborate on **Tool Development | Backend Project**
-
-- 🤝 Build in public **on Twitter/X and Linkedin**
-
-- 📝 Find my top projects [https://github.com/rout369](https://github.com/rout369)
-
-- ⚡ Quote of my life: Never Give Up and some time you have to run before you learn walk..
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Vishal848957001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vishal848957001" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/biswajit-rout-9b2386258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biswajit-rout-9b2386258/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vishal.4921194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vishal.4921194/" height="30" width="40" /></a>
-<a href="https://medium.com/@routbiswajit70681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@routbiswajit70681" height="30" width="40" /></a>
-   <a href="https://tryhackme.com/p/routbiswajit7068" target="_blank" rel="noreferrer">
-    <img align="center" src= "Tryhackme--Streamline-Simple-Icons.svg" alt="rust" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="icons8-bash-48.png" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src= "icons8-rust-programming-language-64.png" alt="rust" width="40" height="40"/>
-  </a>
-   <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
-    <img src= "owaspzap.jpg" alt="wasp" width="40" height="40"/>
-  </a>
-    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src= "icons8-wireshark.gif" alt="shark" width="40" height="40"/>
-  </a>
-    <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src= "icons8-nmap-48.png" alt="nmap" width="40" height="40"/>
-  </a>
-  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
-    <img src= "hashcat-icon.png" alt="cat" width="40" height="40"/>
-  </a>
-   <a href="https://portswigger.net/" target="_blank" rel="noreferrer">
-    <img src= "burp_suite_macos_bigsur_icon_190319.png" alt="burp" width="40" height="40"/>
-  </a>
-  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer">
-    <img src= "shodan.webp" alt="shodan" width="60" height="20"/>
-  </a>
-  
-  
-</p>
---->
-
-
-<!---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rout369&show_icons=true&locale=en&layout=compact" alt="rout369" /></p>
- align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rout369&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="rout369" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rout369&show_icons=true&locale=en&bg_color=000000" alt="rout369" /></p>
---->
-<!---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rout369&bg_color=000000" alt="rout369" /></p>
---->
-<!---
-<a href="https://tryhackme.com/p/routbiswajit7068">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/routbiswajit7068.png" alt="TryHackMe Badge">
-</a>
---->
-
-<!---
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rout369&bg_color=000000" alt="rout369">
-  <a href="https://tryhackme.com/p/routbiswajit7068">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/routbiswajit7068.png" alt="TryHackMe Badge" style="margin-left: 30px;">
-  </a>
-</div>
---->
-
-
-
-
-<!---
-rout369/rout369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 
 <h1 align="center">Hi 👋, I'm Biswajit Rout</h1>
 <h3 align="center">Backend Developer | Cybersecurity Enthusiast</h3>
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 - 🔭 Currently working on **Backend & Cybersecurity Tool Development**  
@@ -130,8 +16,27 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=rout369&theme=onedark&margin-w=15&margin-h=15)](https://github.com/rout369/github-profile-trophy)
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/Repositories-25+-blue?style=for-the-badge&logo=github" />
+        <br><strong>Code Creator</strong>
+        <br><sub>Building the future</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/Languages-4+-green?style=for-the-badge&logo=code" />
+        <br><strong>Polyglot</strong>
+        <br><sub>Multi-language master</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/Commits-200+-orange?style=for-the-badge&logo=git" />
+        <br><strong>Consistent</strong>
+        <br><sub>Daily contributor</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 <!---
 ## 📬 Connect With Me
 <p align="left">
@@ -141,8 +46,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://medium.com/@routbiswajit70681"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/></a>
   <a href="https://tryhackme.com/p/routbiswajit7068"><img src="Tryhackme--Streamline-Simple-Icons.svg" width="40"/></a>
 </p>
-
 --->
+
 ## 📬 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Vishal848957001)
@@ -155,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Skills & Tools
 
 **Programming & Scripting**  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 **Frontend Development**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)  
@@ -185,3 +90,26 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
+
+
+### 💡 Inspiration
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/⚡-Nikola%20Tesla-blue?style=for-the-badge" />
+<br>
+<i>"The present is theirs; the future, for which I really worked, is mine."</i>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/∞-Srinivasa%20Ramanujan-green?style=for-the-badge" />
+<br>
+<i>"I have not proved it, but I know it is true."</i>
+</td>
+</tr>
+</table>
+![Profile Views](https://komarev.com/ghpvc/?username=rout369&color=blueviolet&style=flat-square&label=Profile+Views)
+*Building the future, one commit at a time* ✨
+
+</div>
