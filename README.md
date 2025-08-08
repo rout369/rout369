@@ -109,7 +109,9 @@
 </td>
 </tr>
 </table>
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=rout369&color=blueviolet&style=flat-square&label=Profile+Views)
+
 *Building the future, one commit at a time* ✨
 
 </div>
