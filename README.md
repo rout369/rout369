@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Biswajit Rout</h1>
 <h3 align="center">Backend Developer | Cybersecurity Enthusiast</h3>
 
@@ -37,16 +36,6 @@
     </tr>
   </table>
 </div>
-<!---
-## 📬 Connect With Me
-<p align="left">
-  <a href="https://x.com/Vishal848957001"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
-  <a href="https://www.linkedin.com/in/biswajit-rout-9b2386258/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-  <a href="https://www.instagram.com/vishal.4921194/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
-  <a href="https://medium.com/@routbiswajit70681"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/></a>
-  <a href="https://tryhackme.com/p/routbiswajit7068"><img src="Tryhackme--Streamline-Simple-Icons.svg" width="40"/></a>
-</p>
---->
 
 ## 📬 Connect With Me
 
@@ -92,8 +81,7 @@
 
 
 
-### 💡 Inspiration
-
+## 💡 Inspiration
 <div align="center">
 <table>
 <tr>
