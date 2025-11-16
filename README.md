@@ -2,7 +2,7 @@
 <h3 align="center">Ai/Ml researcher | Cybersecurity Enthusiast | Frontend Developer</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor;Frontend+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Ai/Ml+Researcher+/Developer;Cybersecurity+Enthusiast;Open+Source+Contributor;Frontend+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
