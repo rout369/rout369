@@ -133,13 +133,13 @@
       </td>
       <td align="center" width="200">
         <img src="https://img.shields.io/badge/ML+Projects-10+-green?style=for-the-badge&logo=ai" />
-        <br><strong>ML Engineer</strong>
+        <br><strong>Developer</strong>
         <br><sub>AI Solutions</sub>
       </td>
       <td align="center" width="200">
         <img src="https://img.shields.io/badge/Commits-200+-orange?style=for-the-badge&logo=git" />
         <br><strong>Consistent</strong>
-        <br><sub>Daily contributor</sub>
+        <br><sub> Contributor</sub>
       </td>
     </tr>
   </table>
