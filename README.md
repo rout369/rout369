@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Biswajit Rout</h1>
-<h3 align="center">Backend Developer | Cybersecurity Enthusiast | Frontend Developer</h3>
+<h3 align="center">Ai/Ml researcher | Cybersecurity Enthusiast | Frontend Developer</h3>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor;Frontend+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
-- 🔭 Currently working on **Backend & Cybersecurity Tool Development**  
-- 🌱 Learning **Bug Hunting** and **Advanced Backend Development**  
-- 👯 Open to collaborating on **Tool Development & Backend Projects**  
+- 🔭 Currently working on **Ai/Ml research & Cybersecurity Tool Development**  
+- 🌱 Learning **Bug Hunting** and **Advanced ai/ml research**  
+- 👯 Open to collaborating on **Tool Development & Ml model development**  
 - 📢 Building in public on **[Twitter/X](https://x.com/Vishal848957001)** and **[LinkedIn](https://www.linkedin.com/in/biswajit-rout-9b2386258/)**  
 - 📝 Check out my projects: [GitHub Profile](https://github.com/rout369)  
 - ⚡ **Life Quote:** *Never give up; sometimes you have to run before you learn to walk.*  
